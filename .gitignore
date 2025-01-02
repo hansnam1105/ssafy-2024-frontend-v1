@@ -208,8 +208,3 @@ dist
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,linux,visualstudiocode,node
-
-.DS_Store
-.parcel-cache/
-dist/
-node_modules/
